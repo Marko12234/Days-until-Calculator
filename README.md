@@ -1,4 +1,3 @@
-````markdown
 # Days-until-Calculator
 
 A C# console app that tells you how many days are left until a date 
@@ -31,4 +30,3 @@ git clone https://github.com/Marko12234/Days-until-Calculator.git
 cd Days-until-Calculator
 dotnet run
 ```
-````
